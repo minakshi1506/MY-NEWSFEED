@@ -4,10 +4,10 @@
   --font-family: "Poppins", sans-serif;
   --white: white;
   --black: black;
-  --common-bg-color: rgb(163, 163, 255);
-  --part1-bg-color: rgb(0, 0, 92);
+  --common-bg-color: rgb(240, 168, 198);
+  --part1-bg-color: rgb(207, 44, 126);
   --loaders-link-bg-color: rgb(164, 136, 50);
-  --loaders-link-color: rgb(173, 118, 0);
+  --loaders-link-color: rgb(223, 173, 67);
   --light-grey: rgb(217, 217, 217);
   --blue-color: blue;
 }
